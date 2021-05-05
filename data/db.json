@@ -1,0 +1,141 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome My Niggya",
+      "body": "How your Side nau",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ],
+      "_rawValue": {},
+      "_shallow": false,
+      "__v_isRef": true,
+      "_value": {}
+    },
+    {
+      "id": 2,
+      "title": "Top 5 CSS Tip",
+      "body": "Lortem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusnod tempor i",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ],
+      "_rawValue": {},
+      "_shallow": false,
+      "__v_isRef": true,
+      "_value": {}
+    },
+    {
+      "title": "My New Life",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusnod tempor i",
+      "tags": [
+        "life",
+        "news",
+        "nature"
+      ],
+      "id": 3
+    },
+    {
+      "title": "My First Blog Post",
+      "body": "This is new vue 3",
+      "tags": [
+        "new",
+        "work",
+        "blog"
+      ],
+      "id": 4
+    },
+    {
+      "title": "My Second Blog Post",
+      "body": "Maybe I'm not cut out for this. Chai",
+      "tags": [
+        "tired",
+        "depressed",
+        "work",
+        "blog"
+      ],
+      "id": 5
+    },
+    {
+      "title": "My Second Blog Post",
+      "body": "Maybe I'm not cut out for this",
+      "tags": [
+        "tired",
+        "depressed",
+        "work",
+        "blog"
+      ],
+      "id": 6
+    },
+    {
+      "title": "My Second Blog",
+      "body": "Some lorem ipsum",
+      "tags": [
+        "tired",
+        "work",
+        "blog"
+      ],
+      "id": 7
+    },
+    {
+      "title": "fvfds",
+      "body": "vfcvc",
+      "tags": [
+        "fvf",
+        "vfcd",
+        "evfr"
+      ],
+      "id": 8
+    },
+    {
+      "title": "evtf",
+      "body": "evtfvt",
+      "tags": [
+        "tegbt",
+        "gterf"
+      ],
+      "id": 9
+    },
+    {
+      "title": "wefcde",
+      "body": "wcrefrewr",
+      "tags": [
+        "dwcr",
+        "wrfwre"
+      ],
+      "id": 10
+    },
+    {
+      "title": "wcfefwr",
+      "body": "wfrfdwfrw",
+      "tags": [
+        "wd",
+        "wcred"
+      ],
+      "id": 11
+    },
+    {
+      "title": "wfre",
+      "body": "cferwr",
+      "tags": [
+        "wefe",
+        "fwrfer"
+      ],
+      "id": 12
+    },
+    {
+      "title": "My Second Blog Pose",
+      "body": "Hello People. Vue 3 Here!!!!",
+      "tags": [
+        "vue",
+        "vue3",
+        "blog",
+        "news"
+      ],
+      "id": 13
+    }
+  ]
+}
