@@ -1,4 +1,6 @@
-# ninja-jobs
+# Vue Chat App
+
+Live Site - https://live-chat-ba8d3.web.app/
 
 ## Project setup
 ```
